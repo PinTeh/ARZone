@@ -1,0 +1,2 @@
+include ':app', ':speech', ':camera', ':tts'
+rootProject.name='ARzone'
